@@ -12,6 +12,8 @@ Feature: Abertura de Conta
     And prencha os dados
     When selecionar o botão quero abrir conta
     Then realizo a validação do texto falta pouco
+    
+    
    
       
 
